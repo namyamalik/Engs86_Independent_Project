@@ -2,7 +2,7 @@
 ## Author: Namya Malik
 
 ### Code
-The final code is in the following directories: `rfEchoRxFinal` and `rfEchoTxFinal`.
+The final code is in the following directories: `rfEchoRxFinal` and `rfEchoTxFinal`. The code is based off Texas Instrument sample projects, but has been significantly modifed and adapted.
 
 ### Final Report
 https://www.overleaf.com/read/ffcvbbhdjbhb
