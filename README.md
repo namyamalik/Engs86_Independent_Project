@@ -5,7 +5,7 @@
 The final code is in the following directories: `rfEchoRxFinal` and `rfEchoTxFinal`. The code is based off Texas Instrument sample projects, but has been significantly modifed and adapted.
 
 ### Final Report
-https://www.overleaf.com/read/ffcvbbhdjbhb
+http://namyamalik.me/social-distancing-report.html
 
 ### Abstract
 The rapid transmission of COVID-19 has caused a global health crisis. One of the primary ways to reduce the spread of the virus is to practice social distancing. Specifically, it is important to stay at least six feet away from others. However, it is difficult to implement this, and people can often forget to maintain this distance when they are in a public place.
