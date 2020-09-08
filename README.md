@@ -1,5 +1,8 @@
-## Namya Malik
-## README for ENGS 86 Independent Project, Spring 2020
+## ENGS 86 Independent Project (Social Distancing Sensor), Spring 2020
+## Author: Namya Malik
+
+### Code
+The final code is in the following directories: `rfEchoRxFinal` and `rfEchoTxFinal`.
 
 ### Final Report
 https://www.overleaf.com/read/ffcvbbhdjbhb
